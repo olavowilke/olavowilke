@@ -3,7 +3,7 @@
 
 <h3 align="left">About me:</h3>
 
-A Web Dev student from Brazil and a continuous learner, currently focused on learning back-end development with Java
+A Web Dev student from Brazil and a continuous learner, currently focused on learning back-end development with Java.
 
 ---
 
