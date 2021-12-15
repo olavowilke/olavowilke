@@ -7,15 +7,6 @@ A Web Dev student from Brazil and a continuous learner, currently focused on lea
 
 ---
 
-<h3 align="right">Contact me:</h3>
-
-<p align="right">
-<a target="_blank" href="https://www.linkedin.com/in/olavo-wilke"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
-<a target="_blank" href="mailto:olavo.wilke@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
-</p>
-
----
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
@@ -34,5 +25,9 @@ A Web Dev student from Brazil and a continuous learner, currently focused on lea
 
 ---
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=olavowilke&show_icons=true&locale=en" alt="olavowilke" /></p>
+<h3 align="right">Contact me:</h3>
 
+<p align="right">
+<a target="_blank" href="https://www.linkedin.com/in/olavo-wilke"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
+<a target="_blank" href="mailto:olavo.wilke@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
+</p>
