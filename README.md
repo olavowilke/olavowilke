@@ -2,8 +2,6 @@
 
 Brazillian Software Engineer, focused on full-stack web development.
 
----
-
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="left">
@@ -21,12 +19,6 @@ Brazillian Software Engineer, focused on full-stack web development.
 <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a> 
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 </p>
-
----
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=olavowilke&layout=compact)
-
----
 
 <h3 align="right">Contact me:</h3>
 
